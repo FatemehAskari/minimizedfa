@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.exe
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.deps.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.runtimeconfig.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.runtimeconfig.dev.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\bin\Debug\netcoreapp3.1\minimizedfa.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.AssemblyInfo.cs
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\Project\minimizedfa\minimizedfa\obj\Debug\netcoreapp3.1\minimizedfa.genruntimeconfig.cache
